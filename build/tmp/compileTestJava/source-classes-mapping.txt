@@ -1,0 +1,20 @@
+pl/edu/agh/internetshop/util/CustomAssertions.java
+ pl.edu.agh.internetshop.util.CustomAssertions
+pl/edu/agh/internetshop/CsvProviderTest.java
+ pl.edu.agh.internetshop.CsvProviderTest
+pl/edu/agh/internetshop/util/FileOperations.java
+ pl.edu.agh.internetshop.util.FileOperations
+pl/edu/agh/internetshop/ProductTest.java
+ pl.edu.agh.internetshop.ProductTest
+pl/edu/agh/internetshop/AddressTest.java
+ pl.edu.agh.internetshop.AddressTest
+pl/edu/agh/internetshop/ShipmentTest.java
+ pl.edu.agh.internetshop.ShipmentTest
+pl/edu/agh/internetshop/MoneyTransferTest.java
+ pl.edu.agh.internetshop.MoneyTransferTest
+pl/edu/agh/internetshop/FindableTest.java
+ pl.edu.agh.internetshop.FindableTest
+pl/edu/agh/internetshop/OrderTest.java
+ pl.edu.agh.internetshop.OrderTest
+pl/edu/agh/internetshop/FindMethodsTest.java
+ pl.edu.agh.internetshop.FindMethodsTest

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.ShipmentTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-06-09T18:54:18" hostname="DESKTOP-07I2SAN" time="0.03">
+  <properties/>
+  <testcase name="shipmentStatusCanBeSet()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.016"/>
+  <testcase name="toCSVTest()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.002"/>
+  <testcase name="recipientAddressCanBeObtainedThroughShipment()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.0"/>
+  <testcase name="isInDatabaseTest()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.003"/>
+  <testcase name="shipmentObjectFromDatabaseTest()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.003"/>
+  <testcase name="shipmentStatusIsNotSetByDefault()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.001"/>
+  <testcase name="senderAddressCanBeObtainedThroughShipment()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.001"/>
+  <testcase name="addsUnpresentAddresesToDatabase()" classname="pl.edu.agh.internetshop.ShipmentTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

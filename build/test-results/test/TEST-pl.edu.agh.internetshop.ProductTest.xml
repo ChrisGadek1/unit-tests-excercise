@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.ProductTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-09T18:54:18" hostname="DESKTOP-07I2SAN" time="0.009">
+  <properties/>
+  <testcase name="toCSVTest()" classname="pl.edu.agh.internetshop.ProductTest" time="0.001"/>
+  <testcase name="isInDatabaseTest()" classname="pl.edu.agh.internetshop.ProductTest" time="0.002"/>
+  <testcase name="productPriceCanBeSet()" classname="pl.edu.agh.internetshop.ProductTest" time="0.0"/>
+  <testcase name="productNameCanBeSet()" classname="pl.edu.agh.internetshop.ProductTest" time="0.001"/>
+  <testcase name="productObjectFromDatabaseTest()" classname="pl.edu.agh.internetshop.ProductTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

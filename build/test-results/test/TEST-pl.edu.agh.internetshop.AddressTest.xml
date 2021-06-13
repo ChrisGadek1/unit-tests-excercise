@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.AddressTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-06-09T18:54:17" hostname="DESKTOP-07I2SAN" time="0.026">
+  <properties/>
+  <testcase name="addressObjectFromDatabaseTest()" classname="pl.edu.agh.internetshop.AddressTest" time="0.015"/>
+  <testcase name="isInDatabaseTest()" classname="pl.edu.agh.internetshop.AddressTest" time="0.008"/>
+  <testcase name="addressIsInitialized()" classname="pl.edu.agh.internetshop.AddressTest" time="0.0"/>
+  <testcase name="toCsvTest()" classname="pl.edu.agh.internetshop.AddressTest" time="0.001"/>
+  <system-out><![CDATA[[1,Janusz,Olkuska 48b,12-123,Gdansk, 2,Mariusz,Polna 4,22-542,Warszawa]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

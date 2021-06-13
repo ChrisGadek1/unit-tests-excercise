@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.agh.internetshop.FindableTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-06-09T18:54:17" hostname="DESKTOP-07I2SAN" time="0.018">
+  <properties/>
+  <testcase name="getIdsTest()" classname="pl.edu.agh.internetshop.FindableTest" time="0.001"/>
+  <testcase name="addMoneyTransferToDatabase()" classname="pl.edu.agh.internetshop.FindableTest" time="0.004"/>
+  <testcase name="getCsvPathTest()" classname="pl.edu.agh.internetshop.FindableTest" time="0.002"/>
+  <testcase name="addShipmentToDatabase()" classname="pl.edu.agh.internetshop.FindableTest" time="0.005"/>
+  <testcase name="addProductToDatabaseTest()" classname="pl.edu.agh.internetshop.FindableTest" time="0.001"/>
+  <testcase name="addAddressToDatabase()" classname="pl.edu.agh.internetshop.FindableTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
